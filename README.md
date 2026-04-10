@@ -98,4 +98,4 @@ nyc-schools-sat-analysis/
 
 ## Author
 
-**Babs Akinsowon** — Data Analyst | [LinkedIn](www.linkedin.com/in/babatunde-a-607969139) | [GitHub](https://github.com/bakinsowon-boop)
+**Babs Akinsowon** — Data Analyst | [LinkedIn](https://www.linkedin.com/in/babatunde-a-607969139/) | [GitHub](https://github.com/bakinsowon-boop)
